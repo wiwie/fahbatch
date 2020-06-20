@@ -1,6 +1,6 @@
 # fahbatch
 
-A web app that serves image batches for folding at home accounts.
+A web app that serves image batches for Folding@home accounts.
 
 This is how it looks:
 
